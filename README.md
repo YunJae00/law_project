@@ -32,7 +32,7 @@
 
 ## 시스템 아키텍처
 
-<img width="1090" alt="image" src="https://github.com/user-attachments/assets/bb8af889-95ab-455b-941d-523b15c9beb4" />
+![image](https://github.com/user-attachments/assets/07f07be6-1480-4c12-b0af-7a3b38163665)
 
 **S3 데이터 저장 구조:**
 ```
@@ -79,7 +79,7 @@ airflow-law-raw-data/
 
 ## 데이터 시각화
 
-### Power BI 대시보드 (개발 중)
+### Power BI 대시보드 (진행 중)
 - **키워드 빈도 분석**: 법령명과 제개정이유에서 가장 많이 사용된 단어 추출
 - **카테고리별 키워드 분포**: 13개 카테고리별 주요 키워드와 빈도수
 - **유예기간 분석**: 카테고리별 평균 유예기간 및 긴급성 지표
